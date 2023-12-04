@@ -1,2 +1,2 @@
-email :minoring@naver.com		
+email :tokibonbon@gmail.com		
 gitID :tokibonbon
